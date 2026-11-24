@@ -1,0 +1,309 @@
+{
+  "menu": [
+    {
+      "name": "Greek Salad",
+      "price": 12.99,
+      "description": "Our delicious salad is served with Feta cheese and peeled cucumber. Includes tomatoes, onions, olives, salt and oregano in the ingredients.",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
+      "category": "starters",
+      "emoji": "🥗",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "vibe": [
+        "light"
+      ]
+    },
+    {
+      "name": "Bruschetta",
+      "price": 7.99,
+      "description": "Delicious grilled bread rubbed with garlic and topped with olive oil and salt. Our Bruschetta includes tomato and cheese.",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
+      "category": "starters",
+      "emoji": "🍅",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "vibe": [
+        "light"
+      ]
+    },
+    {
+      "name": "Grilled Fish",
+      "price": 20.0,
+      "description": "Whole fish grilled over charcoal with sea salt and lemon, served with potatoes and a fresh salad.",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/grilledFish.jpg?raw=true",
+      "category": "mains",
+      "emoji": "🐟",
+      "diet": [],
+      "allergens": [
+        "fish"
+      ],
+      "vibe": [
+        "light"
+      ]
+    },
+    {
+      "name": "Pasta",
+      "price": 14.99,
+      "description": "Penne tossed in a rich tomato sauce with garlic, olive oil and fresh basil.",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
+      "category": "mains",
+      "emoji": "🍝",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "vibe": [
+        "hearty"
+      ]
+    },
+    {
+      "name": "Lemon Dessert",
+      "price": 4.99,
+      "description": "A zesty lemon tart topped with fresh berries and mint.",
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/lemonDessert%202.jpg?raw=true",
+      "category": "desserts",
+      "emoji": "🍋",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "eggs"
+      ],
+      "vibe": [
+        "sweet"
+      ]
+    },
+    {
+      "name": "Fava Dip & Warm Pita",
+      "price": 8.5,
+      "description": "Creamy Santorini-style fava (puréed yellow split peas) with olive oil and herbs, served with warm sesame pita.",
+      "image": null,
+      "category": "starters",
+      "emoji": "🫓",
+      "diet": [
+        "vegetarian",
+        "vegan"
+      ],
+      "allergens": [
+        "gluten",
+        "sesame"
+      ],
+      "vibe": [
+        "light"
+      ]
+    },
+    {
+      "name": "Dolmades",
+      "price": 9.25,
+      "description": "Tender vine leaves filled with lemony rice and fresh herbs.",
+      "image": null,
+      "category": "starters",
+      "emoji": "🍃",
+      "diet": [
+        "vegetarian",
+        "vegan"
+      ],
+      "allergens": [],
+      "vibe": [
+        "light"
+      ]
+    },
+    {
+      "name": "Saganaki",
+      "price": 9.75,
+      "description": "Pan-fried Greek cheese with a squeeze of lemon and a drizzle of honey.",
+      "image": null,
+      "category": "starters",
+      "emoji": "🧀",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "vibe": [
+        "hearty"
+      ]
+    },
+    {
+      "name": "Lamb Souvlaki",
+      "price": 19.5,
+      "description": "Charcoal-grilled lamb skewers with tzatziki and warm pita.",
+      "image": null,
+      "category": "mains",
+      "emoji": "🍢",
+      "diet": [],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "vibe": [
+        "hearty"
+      ]
+    },
+    {
+      "name": "Gigantes Plaka",
+      "price": 14.5,
+      "description": "Giant beans baked in a rich tomato and herb sauce, served with crusty bread.",
+      "image": null,
+      "category": "mains",
+      "emoji": "🫘",
+      "diet": [
+        "vegetarian",
+        "vegan"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "vibe": [
+        "hearty"
+      ]
+    },
+    {
+      "name": "Lemon Herb Chicken",
+      "price": 17.75,
+      "description": "Roasted chicken marinated in lemon, garlic and oregano, with potatoes.",
+      "image": null,
+      "category": "mains",
+      "emoji": "🍗",
+      "diet": [],
+      "allergens": [],
+      "vibe": [
+        "hearty"
+      ]
+    },
+    {
+      "name": "Mushroom Risotto",
+      "price": 16.25,
+      "description": "Creamy risotto with wild mushrooms, parmesan and fresh thyme.",
+      "image": null,
+      "category": "mains",
+      "emoji": "🍄",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "vibe": [
+        "hearty"
+      ]
+    },
+    {
+      "name": "Honey & Nut Yogurt",
+      "price": 6.5,
+      "description": "Thick Greek yogurt topped with toasted hazelnuts and a drizzle of honey syrup.",
+      "image": null,
+      "category": "desserts",
+      "emoji": "🍯",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "dairy",
+        "nuts"
+      ],
+      "vibe": [
+        "sweet"
+      ]
+    },
+    {
+      "name": "Chocolate Mousse Cake",
+      "price": 7.25,
+      "description": "Silky chocolate mousse on a crunchy cocoa crumb base, dusted with cocoa.",
+      "image": null,
+      "category": "desserts",
+      "emoji": "🍫",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "dairy",
+        "eggs",
+        "gluten"
+      ],
+      "vibe": [
+        "sweet"
+      ]
+    },
+    {
+      "name": "Fresh Lemonade",
+      "price": 3.99,
+      "description": "Hand-squeezed lemons, a touch of sugar and plenty of ice.",
+      "image": null,
+      "category": "drinks",
+      "emoji": "🍋",
+      "diet": [
+        "vegetarian",
+        "vegan"
+      ],
+      "allergens": [],
+      "vibe": [
+        "refreshing"
+      ]
+    },
+    {
+      "name": "Peach Iced Tea",
+      "price": 3.5,
+      "description": "Black tea chilled with ripe peach and a hint of lemon.",
+      "image": null,
+      "category": "drinks",
+      "emoji": "🍑",
+      "diet": [
+        "vegetarian",
+        "vegan"
+      ],
+      "allergens": [],
+      "vibe": [
+        "refreshing"
+      ]
+    },
+    {
+      "name": "Sparkling Limonata",
+      "price": 4.25,
+      "description": "Italian-style sparkling lemon soda over ice, with a lemon wedge and a sprig of rosemary.",
+      "image": null,
+      "category": "drinks",
+      "emoji": "🥤",
+      "diet": [
+        "vegetarian",
+        "vegan"
+      ],
+      "allergens": [],
+      "vibe": [
+        "refreshing"
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "price": 3.75,
+      "description": "Rich espresso with steamed milk and a velvety foam.",
+      "image": null,
+      "category": "drinks",
+      "emoji": "☕",
+      "diet": [
+        "vegetarian"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "vibe": [
+        "warm"
+      ]
+    }
+  ]
+}
